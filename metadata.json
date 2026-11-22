@@ -1,0 +1,6 @@
+{
+  "name": "CampusFlow AI",
+  "description": "AI-powered academic workflow automation for college students, faculty, and administrators. Upload notices, extract verified deadlines and tasks, translate summaries, detect duplicates, and query campus documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
